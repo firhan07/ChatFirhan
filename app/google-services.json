@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "77227090758",
+    "firebase_url": "https://chat-firhan.firebaseio.com",
+    "project_id": "chat-firhan",
+    "storage_bucket": "chat-firhan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77227090758:android:be0c6bb37f9433fa92fb47",
+        "android_client_info": {
+          "package_name": "com.example.chatfirhan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77227090758-982aep8akuogm4j6rta37rps1e11ht9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatfirhan",
+            "certificate_hash": "905765260640141a8e26d5372aa4ce421c261ca3"
+          }
+        },
+        {
+          "client_id": "77227090758-gs4q7kcupdc399odmit5el09cttsvjnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLKhztF3BjfxbKHdIxzbnby3t5yDrOLC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77227090758-gs4q7kcupdc399odmit5el09cttsvjnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
